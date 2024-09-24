@@ -4,7 +4,7 @@ _At Fitness Hacks for Life (FHFL), a wellness platform and eCommerce site dedica
 
 _In this project, I used Google Ads, Google Analytics, and Tableau to analyze the effectiveness of their digital advertising campaigns, aiming to enhance the FHFL’s outreach and impact._
 
-## Terms Defined:
+## Terms and Metrics Defined:
 
 Regions 
 Clicks
@@ -14,10 +14,14 @@ Click Through Rate
 
 ## Key Performance Indicators:
 
-1. **Engagement Metrics:**
- - Average CTR by Region: Measures average click-through rate (CTR) across regions to identify high and low engagement areas
-3.   Clicks per Region
-4. **Performance Metrics**
-5. **Average CTR by Campaign Over Time**
-6. **Device Usage by Region**
+Engagement Metrics 
+--average ctr by region
+--total clicks by region
 
+Performance Metrics
+--total impressions by region
+--click through rate
+Time-Based Analysis
+--AVg CTR By Campaign over time
+Device Metrics
+--Device Usage Breakdown
