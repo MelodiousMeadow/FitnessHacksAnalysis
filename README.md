@@ -4,7 +4,7 @@
 
 ## Dashboard
 
-![dashboard_image](images/FHFL Dashboard.png)
+![dashboard](images/FHFL_Dashboard.png)
 
 You can access the [Dashboard here](https://public.tableau.com/app/profile/z.w8482/viz/FHFL_Project/Dashboard1)
 
