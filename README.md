@@ -1,4 +1,4 @@
-# _Fitness Hacks for Life_ ~ Wellness eCommerce Insights
+# _Fitness Hacks for Life_ ~ Wellness eCommerce Platform Insights
 
 _At Fitness Hacks for Life (FHFL), a wellness platform and eCommerce site dedicated to promoting mental well-being through empathy, compassion, and evidenced-based information. They create a safe and inclusive space where individuals can access reliable mental health resources, connect with a supportive community, and explore tools such as articles, personalized journal templates, and workbooks to navigate mental health challenges and relieve stress._
 
@@ -13,7 +13,7 @@ _This project focuses on analyzing the performance of FHFL’s digital advertisi
   - **LATAM:** Latin America
   - **EMEA:** Europe, Middle East, and Africa
   - **NA:** North America
-- Devices: The platforms through which users access the content, including computer, mobile, and tablet.
+  - **Devices:** The platforms through which users access the content, including computer, mobile, and tablet.
 
 ## Relevant Key Performance Indicators (KPIs)
 - **Total Impressions:** Measure of how often the ad was viewed.
