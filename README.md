@@ -41,7 +41,7 @@ You can access the [Dashboard here](https://public.tableau.com/app/profile/z.w84
 
 - **Newsletter Sign Up:** This campaign excelled, with exceptional CTR peaks of 34.29% on August 22 and 26.32% on September 9. These spikes signal heightened user interest, which could be capitalized on by exploring further promotional strategies.
 - **Mind Journals:** This campaign showed a concerning decline, dropping to 0% CTR on several days after August 11. This drop raises questions about content relevance and targeting, warranting a review of the ad strategy.
-- **Journals/Workbooks:** While this campaign maintained a fluctuating CTR between 0% and 18.06%, it experienced notable dips in late August, suggesting the need for ongoing monitoring and potential content refreshes.
+- **Journals/Workbooks:** This campaign maintained a fluctuating CTR between 0% and 18.06%. It’s important to note that campaigns with lower impressions tend to experience more significant fluctuations in both CTR and total clicks. This should be considered when analyzing the data.
 
 **Regional Insights:**
 
