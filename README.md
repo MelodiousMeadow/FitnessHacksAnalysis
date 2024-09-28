@@ -39,9 +39,9 @@ You can access the [Dashboard here](https://public.tableau.com/app/profile/z.w84
 
 ### Performance Highlights:
 
-- **Newsletter Sign Up:** This campaign excelled, with exceptional CTR peaks of 34.29% on August 22 and 26.32% on September 9. These spikes signal heightened user interest, which could be capitalized on by exploring further promotional strategies.
+- **Newsletter Sign Up:** This campaign excelled, with exceptional CTR peaks of 34% on August 22 and 26% on September 9. These spikes signal heightened user interest, which could be capitalized on by exploring further promotional strategies.
 - **Mind Journals:** This campaign showed a concerning decline, dropping to 0% CTR on several days after August 11. This drop raises questions about content relevance and targeting, warranting a review of the ad strategy.
-- **Journals/Workbooks:** This campaign maintained a fluctuating CTR between 0% and 18.06%. It’s important to note that campaigns with lower impressions tend to experience more significant fluctuations in both CTR and total clicks. This should be considered when analyzing the data.
+- **Journals/Workbooks:** This campaign maintained a fluctuating CTR between 0% and 18%. It’s important to note that campaigns with lower impressions tend to experience more significant fluctuations in both CTR and total clicks. This should be considered when analyzing the data.
 
 ### Regional Insights:
 
@@ -51,9 +51,9 @@ You can access the [Dashboard here](https://public.tableau.com/app/profile/z.w84
 
 ### Device Preferences:
 
-- Desktop Users: NA and APAC reported a high preference for computer usage (17%), indicating that these regions may be more engaged in professional or productivity-related activities online.
-- Mobile Users: EMEA had the highest percentage of mobile phone users at 12%, highlighting a strong reliance on mobile devices for accessing content. NA followed with 10%, suggesting significant mobile presence but still lower than EMEA. Both APAC (8%) and LATAM (3%) displayed declining mobile usage, revealing potential for growth in mobile optimization strategies.
-- Tablet Usage: Across all regions, tablet usage was uniformly low (1-2%), indicating that users prefer either computers or mobile devices for accessing content.
+- **Desktop Users:** NA and APAC reported a high preference for computer usage (17%), indicating that these regions may be more engaged in professional or productivity-related activities online.
+- **Mobile Users:** EMEA had the highest percentage of mobile phone users at 12%, highlighting a strong reliance on mobile devices for accessing content. NA followed with 10%, suggesting significant mobile presence but still lower than EMEA. Both APAC (8%) and LATAM (3%) displayed declining mobile usage, revealing potential for growth in mobile optimization strategies.
+- **Tablet Usage:** Across all regions, tablet usage was uniformly low (1-2%), indicating that users prefer either computers or mobile devices for accessing content.
 
 ### Conclusions and Opportunities
 
@@ -73,10 +73,10 @@ By implementing these insights and recommendations, we can leverage the strength
 
 To further enhance overall campaign performance, FHFL should strive for the following measurable goals over the next six months:
 
-- Achieve a 20% increase in newsletter conversions by implementing targeted follow-ups and incentives.
-- Improve the overall CTR for Mind Journals to at least 5% within one month by refining content and targeting.
-- Boost mobile CTR in EMEA and APAC by 10% by optimizing ads for mobile platforms within two months.
-- Achieve a 15% increase in desktop engagement across NA and APAC by reallocating resources and optimizing content.
+- Achieve a **20% increase in newsletter conversions**by implementing targeted follow-ups and incentives.
+- Improve the overall **CTR for Mind Journals to at least 5%** within one month by refining content and targeting.
+- Boost mobile **CTR in EMEA and APAC by 10% by optimizing ads** for mobile platforms within two months.
+- Achieve a **15% increase in desktop engagement across NA and APAC** by reallocating resources and optimizing content.
 
 By setting these measurable goals, FHFL can effectively track progress and make data-driven decisions to enhance campaign effectiveness, ultimately leading to greater engagement and conversion rates.
 
