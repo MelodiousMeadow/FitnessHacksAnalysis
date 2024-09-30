@@ -10,21 +10,24 @@ You can access the [Dashboard here](https://public.tableau.com/app/profile/z.w84
 
 To view the entity relationship diagram, click [here](images/FHFL_ERD.png)
 
-## Notable Terms Defined
-- **Impressions:** The number of times an ad is displayed to users.
-- **Click-Through Rate (CTR):** The percentage of impressions that resulted in a click, calculated as (Total Clicks / Total Impressions) * 100.
-- **Campaign:** A coordinated series of advertisements aimed at promoting a product or service over a period of time.
+## Project Overview
+
+**Understanding Key Terms**:
+
+- **Impressions:** Measures how many times FHFL ads were shown to useres.
+- **Click-Through Rate (CTR):** Indicates how effective FHFL ads are, showing the percentage of viewers who clicked on them.
+- **Campaign:** A series of ads focused on promoting a specific product or service.
 - **Regions:** Geographical breakdowns used in the analysis:
   - **APAC:** Asia-Pacific
   - **LATAM:** Latin America
   - **EMEA:** Europe, Middle East, and Africa
   - **NA:** North America
-  - **Devices:** The platforms through which users access the content, including computer, mobile, and tablet.
+  - **Devices:** The platforms through which users access the content (computer, mobile,tablet).
 
-## Relevant Key Performance Indicators (KPIs)
-- **Total Impressions:** Measure of how often the ad was viewed.
-- **Average CTR:** Indicator of ad effectiveness, showing the ratio of clicks to impressions.
-- **Clicks by Region:** Insights into which regions (APAC, LATAM, EMEA, NA) are more engaged with campaigns.
+## Key Performance Indicators (KPIs)
+- **Total Impressions:** How often ads were viewed
+- **Average CTR:** A measure of how many viewers found FHFL ads engaging
+- **Clicks by Region:** Which regions are most responsive to campaigns
 - **% Device Use by Region:** Distribution of device usage (computer, mobile, tablet) to understand platform preferences in different regions.
 
 ## Project Goals
