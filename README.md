@@ -8,6 +8,8 @@
 
 You can access the [Dashboard here](https://public.tableau.com/app/profile/z.w8482/viz/FHFL_Project/Dashboard1)
 
+To view the entity relationship diagram, click [here](images/FHFL_ERD.png)
+
 ## Notable Terms Defined
 - **Impressions:** The number of times an ad is displayed to users.
 - **Click-Through Rate (CTR):** The percentage of impressions that resulted in a click, calculated as (Total Clicks / Total Impressions) * 100.
