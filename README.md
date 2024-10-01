@@ -37,7 +37,7 @@ To view the entity relationship diagram, click [here](images/FHFL_ERD.png).
 
 ## Insights and Performance Overview 
 
-### What We Learned:
+### Campaign Performance:
 - **Successful Campaigns:** The ads for journals/workbooks and newsletter signups demonstrated consistent activity throughout the campaign period. The newsletter signup campaign stood out, achieving an impressive click-through rate (CTR) that frequently exceeded 20% on select days, indicating a strong interest in email subscriptions.
 - **Challenges with Certain Campaigns:** In contrast, the Yoga Books and Sales campaigns exhibited erratic performance, often showing 0% CTR on multiple occasions. This inconsistency suggests a need for deeper analysis and strategy adjustments to enhance engagement.
 ### Regional Performance:
@@ -45,7 +45,7 @@ To view the entity relationship diagram, click [here](images/FHFL_ERD.png).
 - EMEA was close behind, but **LATAM** and **APAC** need more targeted efforts to increase their engagement.
 ### Device Insights:
 - **Desktop Usage:** High in NA and APAC, indicating that these audiences engage more in professional settings.
-* **Mobile Usage:** EMEA showed the strongest mobile engagement, suggesting we should prioritize mobile-friendly content there.
+* **Mobile Usage:** EMEA showed the strongest mobile engagement, suggesting FHFL should prioritize mobile-friendly content there.
 
 ## Conclusions and Opportunities
 - **Focus on LATAM:** To boost performance, FHFL needs to improve our ad targeting and content to better resonate with this audience.
