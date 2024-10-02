@@ -1,6 +1,6 @@
 # _Fitness Hacks for Life_ ~ Wellness eCommerce Insights
 
-**_This project analyzes Fitness Hacks for Life (FHFL), a wellness platform and eCommerce site, by evaluating its digital ad campaigns using Google Ads, Google Analytics, and Tableau. FHFL promotes mental well-being through empathy, compassion, and evidence-based resources. The dashboard provides insights into campaign performance across regions and devices, aiming to optimize outreach and increase FHFL's impact. Alongside mental health content, such as expert-driven articles, podcasts, and tools like personalized journals and stress-relief workbooks, FHFL’s eCommerce store offers products designed to support overall well-being, creating a holistic space for mental health and community connection._**
+**_This project analyzes Fitness Hacks for Life (FHFL), a wellness platform and eCommerce site, by evaluating its digital ad campaigns using Google Ads, Google Analytics, SQL and Tableau. FHFL promotes mental well-being through empathy, compassion, and evidence-based resources. The dashboard provides insights into campaign performance across regions and devices, aiming to optimize outreach and increase FHFL's impact. Alongside mental health content, such as expert-driven articles, podcasts, and tools like personalized journals and stress-relief workbooks, FHFL’s eCommerce store offers products designed to support overall well-being, creating a holistic space for mental health and community connection._**
 
 ## Dashboard
 
