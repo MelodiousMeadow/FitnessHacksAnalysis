@@ -42,7 +42,7 @@ To view the entity relationship diagram, click [here](images/FHFL_ERD.png).
 - **Challenges with Certain Campaigns:** In contrast, the Yoga Books and Sales campaigns exhibited erratic performance, often showing 0% CTR on multiple occasions. This inconsistency suggests a need for deeper analysis and strategy adjustments to enhance engagement.
 ### Regional Performance:
 - North America led with over 8,000 impressions, suggesting a larger audience or stronger engagement.
-- EMEA was close behind, but **LATAM** and **APAC** need more targeted efforts to increase their engagement.
+- EMEA was close behind, but LATAM and APAC need more targeted efforts to increase their engagement.
 ### Device Insights:
 - **Desktop Usage:** High in NA and APAC, indicating that these audiences engage more in professional settings.
 * **Mobile Usage:** EMEA showed the strongest mobile engagement, suggesting FHFL should prioritize mobile-friendly content there.
