@@ -38,6 +38,7 @@ To view the entity relationship diagram, click [here](images/FHFL_ERD.png).
 ## Insights and Performance Overview 
 
 ### Campaign Performance:
+- **Click Trends by Day of the Week:** Wednesdays saw the highest total clicks across campaigns, with 1,595 clicks, while Saturdays had the lowest, with 1,194 clicks. This suggests that user engagement peaks mid-week and drops on weekends, indicating an opportunity for FHFL to focus on boosting campaigns during higher-traffic days and reassess strategy for weekends.
 - **Successful Campaigns:** The ads for journals/workbooks and newsletter signups demonstrated consistent activity throughout the campaign period. The newsletter signup campaign stood out, achieving an impressive click-through rate (CTR) that frequently exceeded 20% on select days, indicating a strong interest in email subscriptions.
 - **Challenges with Certain Campaigns:** In contrast, the Yoga Books and Sales campaigns exhibited erratic performance, often showing 0% CTR on multiple occasions. This inconsistency suggests a need for deeper analysis and strategy adjustments to enhance engagement.
 ### Regional Performance:
